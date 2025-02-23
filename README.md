@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Riatte.
+- 👋 Hi, I’m Varvara.
 - 👀 I’m interested in skills development.
 - 🌱 I’m currently learning JS.
 - 💞️ I’m looking to collaborate on ...
